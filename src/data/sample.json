@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "nameTH": "คลองลาน",
+    "nameEN": "Khlong Lan National Park",
+    "lat": 16.129768,
+    "lng": 99.28219729999999,
+    "description": "",
+    "logo": "/assets/logo/khlong-lan.png",
+    "website": "https://www.facebook.com/KhlongLanNationalPark",
+    "province": "กำแพงเพชร",
+    "region": "ภาคเหนือ",
+    "officialWebsite": "https://portal.dnp.go.th/Content/nationalpark?contentId=900"
+  },
+  {
+    "id": 2,
+    "nameTH": "คลองวังเจ้า",
+    "nameEN": "446", // It might not accurate please re-check!
+    "lat": 16.5060382,
+    "lng": 99.1704044,
+    "description": "",
+    "logo": "",
+    "website": "https://www.facebook.com/Khlongwangchao/",
+    "province": "กำแพงเพชร",
+    "region": "ภาคเหนือ",
+    "officialWebsite": "https://portal.dnp.go.th/Content/nationalpark?contentId=902"
+  },
+  {
+    "id": 3,
+    "nameTH": "แม่วงก์",
+    "nameEN": "26QM+J9F Tourist Service Center of Mae Wong National Park",
+    "lat": 16.0390625,
+    "lng": 99.23342509999999,
+    "description": "",
+    "logo": "",
+    "website": "",
+    "province": "กำแพงเพชร",
+    "region": "ภาคเหนือ",
+    "officialWebsite": "https://portal.dnp.go.th/Content/nationalpark?contentId=894"
+  },
+  {
+    "id": 4,
+    "nameTH": "ขุนแจ",
+    "nameEN": "Khun Chae National Park",
+    "lat": 19.0767882,
+    "lng": 99.39936910000002,
+    "description": "",
+    "logo": "",
+    "website": "",
+    "province": "เชียงราย",
+    "region": "ภาคเหนือ",
+    "officialWebsite": "https://portal.dnp.go.th/Content/nationalpark?contentId=903"
+  }
+]
